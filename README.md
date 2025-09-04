@@ -67,7 +67,7 @@ Before running this project, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/rohitkrbose/Training-And-Placement-Cell.git
+git clone https://github.com/rohithambar/Training-And-Placement-Cell.git
 cd Training-And-Placement-Cell
 ```
 
@@ -269,7 +269,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Rohit Kumar** - *Initial work* - [rohitkrbose](https://github.com/rohitkrbose)
+- **Rohit Kumar** - *Initial work* - [rohithambar](https://github.com/rohithambar)
 
 ## 🙏 Acknowledgments
 

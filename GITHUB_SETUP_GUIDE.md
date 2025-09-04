@@ -55,7 +55,7 @@ After pushing, you should see:
 ## 🔧 Your Repository URL
 
 After creation, your repository will be available at:
-https://github.com/rohitkrbose/Training-And-Placement-Cell
+https://github.com/rohithambar/Training-And-Placement-Cell
 
 ## 🎯 Current Project Status
 
