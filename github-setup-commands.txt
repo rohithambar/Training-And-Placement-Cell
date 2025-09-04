@@ -1,0 +1,9 @@
+# After creating the repository on GitHub, run these commands:
+
+cd "C:\Users\rohit\OneDrive\Desktop\miniprojects _updated codes\Training-And-Placement-Cell"
+
+# Set your GitHub repository URL (replace 'yourusername' with your actual GitHub username)
+git remote set-url origin https://github.com/yourusername/Training-And-Placement-Cell.git
+
+# Push to GitHub
+git push -u origin main
