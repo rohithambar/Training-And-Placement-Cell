@@ -138,7 +138,7 @@ node scripts/createAdmin.js
 ```
 
 This will create an admin account with these default credentials:
-- **Email**: `rohit@gmail.com`
+- **Email**: `xyz@gmail.com`
 - **Password**: `admin@123`
 
 ## 🏃‍♂️ Running the Application
@@ -171,7 +171,7 @@ npm start
 ### 1. Admin Login
 - Navigate to http://localhost:3001
 - Go to Admin Login
-- Use credentials: `rohit@gmail.com` / `admin@123`
+- Use credentials: `xyz@gmail.com` / `admin@123`
 
 ### 2. Student Registration
 - Students can register through the student registration page
@@ -269,7 +269,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Rohit Kumar** - *Initial work* - [rohithambar](https://github.com/rohithambar)
+- **Rohit Hambar** - *Initial work* - [rohithambar](https://github.com/rohithambar)
 
 ## 🙏 Acknowledgments
 
@@ -279,7 +279,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For support, email rohit@example.com or create an issue in the GitHub repository.
+For support, email rohithambar2001@gmail.com or create an issue in the GitHub repository.
 
 ## 🔄 Version History
 
