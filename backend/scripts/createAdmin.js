@@ -12,10 +12,10 @@ const createAdmin = async () => {
     
     const adminData = {
       name: 'rohit',           // Change this to your name
-      email: 'rohit@gmail.com',     // Change this to your email
+      email: 'xyz@gmail.com',     // Change this to your email
       password: 'admin@123',        // Change this to your preferred password
       role: 'admin',
-      phone: '9845881691',         // Change this to your phone number
+      phone: '9800253610',         // Change this to your phone number
       active: true,
       loginAttempts: 0
     };
